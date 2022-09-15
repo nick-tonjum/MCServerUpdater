@@ -1,0 +1,10 @@
+[MCServerUpdater]
+serverjarname = server.jar
+servertype = Paper
+rconport = 25575
+rconpassword = secret
+updateinterval = 3600
+notificationmessage = {"text":"Server restarting in 10 seconds...","color":"yellow"}
+shutdowndelay = 10
+shutdowncommand = stop
+serverstartscript = None
